@@ -40,7 +40,7 @@ server e Totvs Reports, Desenvolvimento de aplicações para integração entre 
 requisitos, soluções com .Net MVC 5 e SQl Server 2008/2012.</p>
 
 
-<p><b>Desenvolvedor na E&L Produções de Software Gestão Pública Ltda<b>
+<p><b>Desenvolvedor na E&L Produções de Software Gestão Pública Ltda</b>
 outubro de 2010 - fevereiro de 2012 (1 ano 5 meses)</p>
 <p>Responsabilidades:</p>
 <p>Atuando como Desenvolvedor, utilizando Delphi 2006, Manutenção nos sistemas ERP de gestão pública, Manutenção e migração de
