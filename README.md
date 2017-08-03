@@ -49,8 +49,7 @@ dados em SQL Server, Oracle, PostgresSql, FireBird e Dataflex. Implementação d
 
 <h4>Projetos</h4>
 <p><b>	&diams; SGPE - Gestão de Projetos de Engenharia</p></b> 
-<p>mai de 2016 – mai de 2017</p>
-<p>Descrição do projetoDesenvolvimento e participação nas definições de arquitetura da solução de gestão de projetos de engenharia. 
+<p>mai de 2016 – mai de 2017 - Descrição do projetoDesenvolvimento e participação nas definições de arquitetura da solução de gestão de projetos de engenharia. 
 Algumas atividades exercidas:</p>
 <p>-Sistema de versionamento tanto de BackEnd e FrontEnd;</p>
 <p>-Definição e acompanhamento de arquitetura de API webApi .Net;</p>
@@ -63,19 +62,16 @@ Algumas atividades exercidas:</p>
 <p>Esse projeto atende as demanda de empresas de engenharia com a necessidade gerenciar todo o projeto de seu cliente.
 Classificado como médio porte, essa solução contribui com ganho no controle de todas as informações pertinentes de um projeto e rotinas de calculos</p>
 
-<p><b>	&diams; Gestão de Painéis e Chamada Médica</p></b>
-<p>jun de 2015 – jun de 2015</p>
-<p>Descrição do projetoSistema de Gestão de Painéis e Chamada Médica: Aplicação de controle de chamada médica com objetivo de organizar e melhorar o encaminhamento dos pacientes em suas respectivas salas ou laboratórios nas unidades do SESI SAÚDE.</p>
+<p><b>&diams; Gestão de Painéis e Chamada Médica</p></b>
+<p>jun de 2015 – jun de 2015 - Descrição do projetoSistema de Gestão de Painéis e Chamada Médica: Aplicação de controle de chamada médica com objetivo de organizar e melhorar o encaminhamento dos pacientes em suas respectivas salas ou laboratórios nas unidades do SESI SAÚDE.</p>
 <p>Tecnologias empregadas: ASP.NET MVC5, REST JSON, SQL Server, Bootstra, Controle de Monitores individual por unidade.</p>
 
-<p><b>	&diams; Calculadora de Mensalidades e Tabela de Valores</p></b> 
-<p>2015 – 2015</p>
-<p>Desenvolvimento de aplicativo para organizar os valores de mensalidades e calculo do mesmo.
+<p><b>&diams; Calculadora de Mensalidades e Tabela de Valores</p></b> 
+<p>2015 – 2015 - Desenvolvimento de aplicativo para organizar os valores de mensalidades e calculo do mesmo.
 MVC5, Sql server, Json, Javascript</p>
 
 <p><b>	&diams;SESI Saúde Agendamento de Clientes</p></b>
-<p>2015 – 2015</p>
-<p>Descrição do projetoReestruturação de banco de dados SQl Server 2000. Adaptando aplicação legada com estrutura de múltiplas filiais.</p>
+<p>2015 – 2015 - Descrição do projetoReestruturação de banco de dados SQl Server 2000. Adaptando aplicação legada com estrutura de múltiplas filiais.</p>
 <p>-Modelagem de dados</p>
 <p>-UML</p>
 <p>-Criação de servidor de versionamento com Visual svn</p>
@@ -95,18 +91,16 @@ MVC5, Sql server, Json, Javascript</p>
 <p>- Compartilhamento de documentos no auxilio das atividades junto a secretaria usando rede social corporativa Conecta.</p>
 
 <p><b>	&diams; E-TCEES Peticionamento via internet - Tribunal de contas do Espirito Santo</p></b>	
-<p>2017 – 2017</p>
-<p>Descrição do projetoVisa a implantação do Sistema de Protocolo via internet, viabilizando aos jurisdicionados e cidadãos o envio de petições, ofícios, representações, denúncias etc. de forma eletrônica ao TCE.</p>
+<p>2017 – 2017 - Descrição do projetoVisa a implantação do Sistema de Protocolo via internet, viabilizando aos jurisdicionados e cidadãos o envio de petições, ofícios, representações, denúncias etc. de forma eletrônica ao TCE.</p>
 
 <p><b>	&diams; E-TCEES Prazos Processuais - Tribunal de contas do Espirito Santo</p></b>
-<p>2017 – 2017</p>
-<p>Descrição do projetoMonitoramento de prazos, emissão de alertas automáticos e geração de relatórios gerenciais dos 
+<p>2017 – 2017 - Descrição do projetoMonitoramento de prazos, emissão de alertas automáticos e geração de relatórios gerenciais dos 
 processos de controle externo em tramitação no TCE, visando a celeridade de apreciação das demandas e o retorno tempestivo das informações à sociedade.<p>
   
-<p><b>	&diams; Migração Pergamum Desktop para Pergamum Web + Mobile</p></b> 
+<p><b>&diams; Migração Pergamum Desktop para Pergamum Web + Mobile</p></b> 
 <p>Migração do sistema de biblioteca Desktop para plataforma Web integrado com a PUCPR.</p>
 
-<p><b>	&diams; Sistema Findes - TOTVS CLASSIS</p></b>	
+<p><b>&diams; Sistema Findes - TOTVS CLASSIS</p></b>	
 <p>Planejamento do Projeto.</p>
 <p>Elaboração e acompanhamento de cronograma e entregas.</p>
 <p>Elaboração e manutenção de documentos do projeto.</p>
