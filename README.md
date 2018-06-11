@@ -117,7 +117,7 @@ processos de controle externo em tramitação no TCE, visando a celeridade de ap
 
 <p><b>	&diams; ITIX Soluções</p></b>	 
 <p>Atuação em projetos voltado para área de saúde, tais como:.</p>
-<p>Gestão de produção médica / faturamento da produção. Cliente de grnade porte no seguimento. Utilizando tecnologias como: .net, AngularJS, ASP.Net, SQL Server, Azure WebJobs, programação assíncrona entre outras.</p>
+<p>Gestão de produção médica / faturamento da produção. Cliente de grande porte no seguimento. Utilizando tecnologias como: .net, AngularJS, ASP.Net, SQL Server, Azure WebJobs, programação assíncrona entre outras.</p>
 
 
 </br>
