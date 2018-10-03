@@ -117,8 +117,23 @@ processos de controle externo em tramitação no TCE, visando a celeridade de ap
 
 <p><b>	&diams; ITIX Soluções</p></b>	 
 <p>Atuação em projetos voltado para área de saúde, tais como:.</p>
-<p>Gestão de produção médica / faturamento da produção. Cliente de grande porte no seguimento. Utilizando tecnologias como: .net, AngularJS, ASP.Net, SQL Server, Azure WebJobs, programação assíncrona entre outras.</p>
+<p>Gestão de produção médica / faturamento da produção. Cliente de grande porte no seguimento. Utilizando tecnologias como: .net, AngularJS, Angular, ASP.Net, .net core SQL Server, Azure WebJobs, programação assíncrona entre outras.</p>
+<p>Projetos:</p>
+<p>Unimed Guia médico app</p>
+<p>jul de 2018</p>
 
+<p>Unimed seguros App Ionic</p>
+<p>jul de 2018</p>
+
+<p>Unimed RIR - Ressarcimento de Imposto de Renda</p>
+<p>jun de 2018</p>
+
+<p>We Rocks</p>
+<p>We Rocks - marketing place de rochas ornamentais</p>
+<p>jun de 2018</p>
+
+<p>Gestao da produção Medica</p>
+<p>out de 2017</p>
 
 </br>
 <p>Mais:https://br.linkedin.com/in/gabrieldavitoria</p>
