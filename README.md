@@ -1,9 +1,7 @@
 <b>Gabriel da Vitoria dos Santos</b>
 <h4>Resumo</h4>
-<p>Sou analista de sistema e atuo na área de informática, incluindo análise e modelagem de dados, gerenciamento
-de banco de dados, desenvolvimento e implantação de sistemas, treinamento e suporte aos usuários. Minhas
-principais habilidades são facilidade para trabalho em equipe, dinamismo, raciocínio lógico, organização,
-perseverança e inovações utilizando as tecnologias mais recentes.
+<p>Sou desenvolverdor soluções web e mobile, incluindo análise e modelagem de dados, gerenciamento
+de banco de dados e desenvolvimento. Minhas principais habilidades são facilidade para trabalho em equipe, dinamismo, raciocínio lógico, organização, perseverança e inovações utilizando as tecnologias mais recentes.
 </p>
 <h4>Experiência</h4>
 <p><b>	&diams; Software Web Developer na Tribunal de Contas do Estado do Espírito Santo - TCEES</b>
