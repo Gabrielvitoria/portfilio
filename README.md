@@ -1,4 +1,8 @@
 <b>Gabriel da Vitoria dos Santos</b>
+&diams; <b>Endereço eletrônico:</b> gabriel.vitoria.ti@gmail.com
+&diams; <b>Linkedin:</b> br.linkedin.com/in/gabrieldavitoria/
+&diams; <b>Git:</b> https://github.com/Gabrielvitoria/portfolio
+
 <h4>Resumo</h4>
 <p>Sou desenvolverdor soluções web e mobile, incluindo análise e modelagem de dados, gerenciamento
 de banco de dados e desenvolvimento. Minhas principais habilidades são facilidade para trabalho em equipe, dinamismo, raciocínio lógico, organização, perseverança e inovações utilizando as tecnologias mais recentes.
