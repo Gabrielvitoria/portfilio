@@ -1,7 +1,8 @@
 <b>Gabriel da Vitoria dos Santos</b>
-&diams; <b>Endereço eletrônico:</b> gabriel.vitoria.ti@gmail.com
-&diams; <b>Linkedin:</b> br.linkedin.com/in/gabrieldavitoria/
-&diams; <b>Git:</b> https://github.com/Gabrielvitoria/portfolio
+</p>
+&diams; <b>Endereço eletrônico:</b> gabriel.vitoria.ti@gmail.com </p>
+&diams; <b>Linkedin:</b> br.linkedin.com/in/gabrieldavitoria/ </p>
+&diams; <b>Git:</b> https://github.com/Gabrielvitoria/portfolio </p>
 
 <h4>Resumo</h4>
 <p>Sou desenvolverdor soluções web e mobile, incluindo análise e modelagem de dados, gerenciamento
