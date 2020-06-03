@@ -37,7 +37,7 @@ e Levantamento de projetos, Treinamento de usuários chaves, Gerenciar Bancos de
 2000/2008, Monitoramento dos processos já implantados sob sua custódia nas diversas áreas, Elaboração
 de especificações técnicas de equipamentos de tecnologia da informação, elaboração de relatórios com sql
 server e Totvs Reports, Desenvolvimento de aplicações para integração entre sistemas, levantamento de
-requisitos, soluções com .Net MVC 5 e SQl Server 2008/2012.</p>
+requisitos, soluções com .Net MVC 5, SQl Server 2008/2012 e integrando sistemas Totvs Educacional e Pergamum</p>
 
 
 <p><b>	&diams; Desenvolvedor na E&L Produções de Software Gestão Pública Ltda</b>
