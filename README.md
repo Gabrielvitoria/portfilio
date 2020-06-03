@@ -66,7 +66,7 @@ Algumas atividades exercidas:</p>
 Classificado como médio porte, essa solução contribui com ganho no controle de todas as informações pertinentes de um projeto e rotinas de calculos</p>
 
 <p><b>&diams; Gestão de Painéis e Chamada Médica</p></b>
-<p>jun de 2015 – jun de 2015 - Descrição do projetoSistema de Gestão de Painéis e Chamada Médica: Aplicação de controle de chamada médica com objetivo de organizar e melhorar o encaminhamento dos pacientes em suas respectivas salas ou laboratórios nas unidades do SESI SAÚDE.</p>
+<p>jun de 2015 – jun de 2015 - Descrição do projeto: Sistema de Gestão de Painéis e Chamada Médica: Aplicação de controle de chamada médica com objetivo de organizar e melhorar o encaminhamento dos pacientes em suas respectivas salas ou laboratórios nas unidades do SESI SAÚDE.</p>
 <p>Tecnologias empregadas: ASP.NET MVC5, REST JSON, SQL Server, Bootstra, Controle de Monitores individual por unidade.</p>
 
 <p><b>&diams; Calculadora de Mensalidades e Tabela de Valores</p></b> 
@@ -74,10 +74,10 @@ Classificado como médio porte, essa solução contribui com ganho no controle d
 MVC5, Sql server, Json, Javascript</p>
 
 <p><b>	&diams;SESI Saúde Agendamento de Clientes</p></b>
-<p>2015 – 2015 - Descrição do projetoReestruturação de banco de dados SQl Server 2000. Adaptando aplicação legada com estrutura de múltiplas filiais.</p>
+<p>2015 – 2015 - Descrição do projeto: Reestruturação de banco de dados SQl Server 2000. Adaptando aplicação legada com estrutura de múltiplas filiais.</p>
 <p>-Modelagem de dados</p>
 <p>-UML</p>
-<p>-Criação de servidor de versionamento com Visual svn</p>
+<p>-svn</p>
 <p>-Update Framework .net</p>
 <p>-Restruturação do IIS</p>
 
@@ -94,10 +94,10 @@ MVC5, Sql server, Json, Javascript</p>
 <p>- Compartilhamento de documentos no auxilio das atividades junto a secretaria usando rede social corporativa Conecta.</p>
 
 <p><b>	&diams; E-TCEES Peticionamento via internet - Tribunal de contas do Espirito Santo</p></b>	
-<p>2017 – 2017 - Descrição do projetoVisa a implantação do Sistema de Protocolo via internet, viabilizando aos jurisdicionados e cidadãos o envio de petições, ofícios, representações, denúncias etc. de forma eletrônica ao TCE.</p>
+<p>2017 – 2017 - Descrição do projeto: Visa a implantação do Sistema de Protocolo via internet, viabilizando aos jurisdicionados e cidadãos o envio de petições, ofícios, representações, denúncias etc. de forma eletrônica ao TCE.</p>
 
 <p><b>	&diams; E-TCEES Prazos Processuais - Tribunal de contas do Espirito Santo</p></b>
-<p>2017 – 2017 - Descrição do projetoMonitoramento de prazos, emissão de alertas automáticos e geração de relatórios gerenciais dos 
+<p>2017 – 2017 - Descrição do projeto: Monitoramento de prazos, emissão de alertas automáticos e geração de relatórios gerenciais dos 
 processos de controle externo em tramitação no TCE, visando a celeridade de apreciação das demandas e o retorno tempestivo das informações à sociedade.<p>
   
 <p><b>&diams; Migração Pergamum Desktop para Pergamum Web + Mobile</p></b> 
@@ -115,7 +115,7 @@ processos de controle externo em tramitação no TCE, visando a celeridade de ap
 <p>Apoio técnico em definição de Procedimentos vs Recursos de TI.</p>
 
 <p><b>	&diams; TCEES Portal da Transparencia - Tribunal de contas do Espirito Santo</p></b>	 
-<p>Descrição do projetoProjeto destinado a transparência de informações e gastos públicos.</p>
+<p>Descrição do projeto: Projeto destinado a transparência de informações e gastos públicos.</p>
 <p>Empenhos, Liquidações e Pagamentos criado de forma eficaz e precisa. Utilizando de Fonte de Dados: Sistema Integrado de Gestão das Finanças Públicas do Espírito Santo – SIGEFES.</p>
 
 <p><b>	&diams; ITIX Soluções</p></b>	 
