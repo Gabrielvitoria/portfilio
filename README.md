@@ -5,7 +5,7 @@
 &diams; <b>Git:</b> https://github.com/Gabrielvitoria/portfolio </p>
 
 <h4>Resumo</h4>
-<p>Sou desenvolverdor soluções web e mobile, incluindo análise e modelagem de dados, gerenciamento
+<p>Sou desenvolvedor soluções web e mobile, incluindo análise e modelagem de dados, gerenciamento
 de banco de dados e desenvolvimento. Minhas principais habilidades são facilidade para trabalho em equipe, dinamismo, raciocínio lógico, organização, perseverança e inovações utilizando as tecnologias mais recentes.
 </p>
 <h4>Experiência</h4>
